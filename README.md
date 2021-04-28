@@ -7,11 +7,11 @@ goldilocks lite – 고속 데이터 처리 Key-Value DBMS(상용)(contact : sal
 
 
 # Help
-메뉴얼 다운로드 : https://www.sunjesoft.com/faq<br>
-채팅 및 질의응답 : https://www.sunjesoft.com/faq<br>
+메뉴얼 다운로드 <a href=https://www.sunjesoft.co.kr/faq>http://www.sunjesoft.com/fag</a><br>
+채팅 및 질의응답 <a href=https://www.sunjesoft.co.kr/faq>http://www.sunjesoft.com/fag</a><br>
 
 # Q&A and Bug Reports
-Q&A 또는 버그 리포트는 http://www.sunjesoft.com/faq or support@sunjesoft.com 보내주세요.<br>
+Q&A 또는 버그 리포트는 <a href=https://www.sunjesoft.co.kr/faq>http://www.sunjesoft.com/fag</a> or support@sunjesoft.com 보내주세요.<br>
 버그 패치 소스는 https://github.com/GOLDILOCKS-DBMS/GOLDILOCKS <br>
 
 # License
