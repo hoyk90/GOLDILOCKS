@@ -39,3 +39,46 @@ godilocks를 수정 재배포하는 경우 아파치 2.0, BSD 라이센스 규�
 > BSD 3-clause   <https://opensource.org/licenses/BSD-3-Clause><br>
 
 # Build and Run
+<b>System Information</b><br>
+>OS  : Red Hat or Cent OS<br>
+>CPU : x86_64<br>
+>Memory : 2GB(최소) 이상<br>
+>
+<b>Build</b><br>
+GCC-4.8.5 이상의 버전에서 Build을 지원합니다.<br>
+Dependent package<br>
+>1. 
+>2. 
+>
+Configuration<br>
+>1.
+>2.
+>
+Build<br>
+>1. make clean
+>2. make or make intall
+>
+<b>Run</b><br>
+1. 운영환경 설정
+>1.
+>2.
+>
+
+2. GODILOCKS 파라메터 설정
+
+>1.
+>2.
+>
+
+3. GODILOCKS 실행
+
+>1.
+>2.
+>
+
+4. GODILOCKS 동작 확인
+
+>1.
+>2.
+>
+
