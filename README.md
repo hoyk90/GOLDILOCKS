@@ -1,9 +1,18 @@
 # GOLDILOCKS 
 High performance in-memory DBMS<br>
-goldilocks – 고속 데이터 처리 Relation DBMS(open source)<br>
-goldilocks cloud – 자동 확장 분산 데이터 처리 및 저장 가능한 Cloud DBMS(개발 중)<br>
-goldilocks cluster – 수평 확장 가능한 분산 데이터 처리 DBMS(상용)(contact : sales@sunjesoft.com)<br>
-goldilocks lite – 고속 데이터 처리 Key-Value DBMS(상용)(contact : sales@sunjesoft.com)<br>
+GOLDILOCKS는 Relation DBMS의 특징과 No SQL DBMS의 확장성을 모두 갖춘 New SQL 메모리 DBMS입니다. <br>
+<b>GOLDILOCKS DBMS의 기능</b><br>
+>1.샤딩을 이용한 데이터 분산 저장 기능<br>
+>2.온라인 수평 확장 및 축소 기능<br>
+>3.병렬 데이터 처리 및 분산 운영 DBMS<br>
+>4.다양한 운영 모드 지원(Active-Active, Active-StandBy 등)<br>
+<b>GOLDILOCK DBMS 제품 구성</b><br>
+Open Software Free Product<br>
+>1. goldilocks – 고속 데이터 처리 Relation DBMS(open source)<br>
+>2. goldilocks cloud – 자동 확장 분산 데이터 처리 및 저장 가능한 Cloud DBMS(개발 중)<br>
+Commercial Software Product(Contact Email:sales@sunjesoft.com)<br>
+>1. goldilocks cluster – 수평 확장 가능한 분산 데이터 처리 DBMS<br>
+>2. goldilocks lite – 고속 데이터 처리 Key-Value DBMS<br>
 
 
 # Help
