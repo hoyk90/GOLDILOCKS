@@ -68,7 +68,7 @@ Build<br>
 
 >1.
 >2.
->
+>3.
 
 3. GODILOCKS 실행
 
