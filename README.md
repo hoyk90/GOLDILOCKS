@@ -74,7 +74,7 @@ Build<br>
 
 >1.
 >2.
->
+>3.
 
 4. GODILOCKS 동작 확인
 
